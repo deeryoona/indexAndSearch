@@ -10,6 +10,7 @@
 		4228003528A5EA51032F0CF6 /* Pods_iOSBlog.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD2363DE1B4CB5F341A8140B /* Pods_iOSBlog.framework */; };
 		5252DA84200473B4001F3681 /* MJNIndexView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5252DA82200473B4001F3681 /* MJNIndexView.m */; };
 		5252DAA92004C10E001F3681 /* WPFSearchResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5252DAA72004C10D001F3681 /* WPFSearchResultViewController.m */; };
+		529743582006002A0074FD48 /* 2018-01-10 15_08_44.gif in Resources */ = {isa = PBXBuildFile; fileRef = 529743572006002A0074FD48 /* 2018-01-10 15_08_44.gif */; };
 		EBBB2E121B8AB9A10062C875 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EBBB2E111B8AB9A10062C875 /* main.m */; };
 		EBBB2E151B8AB9A10062C875 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EBBB2E141B8AB9A10062C875 /* AppDelegate.m */; };
 		EBBB2E181B8AB9A10062C875 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EBBB2E171B8AB9A10062C875 /* ViewController.m */; };
@@ -38,6 +39,7 @@
 		5252DA83200473B4001F3681 /* MJNIndexView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJNIndexView.h; sourceTree = "<group>"; };
 		5252DAA72004C10D001F3681 /* WPFSearchResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFSearchResultViewController.m; sourceTree = "<group>"; };
 		5252DAA82004C10E001F3681 /* WPFSearchResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFSearchResultViewController.h; sourceTree = "<group>"; };
+		529743572006002A0074FD48 /* 2018-01-10 15_08_44.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "2018-01-10 15_08_44.gif"; sourceTree = "<group>"; };
 		D1CE5541BD9A53DD59F47CB1 /* Pods-iOSBlog.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSBlog.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOSBlog/Pods-iOSBlog.release.xcconfig"; sourceTree = "<group>"; };
 		DD2363DE1B4CB5F341A8140B /* Pods_iOSBlog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOSBlog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBBB2E0C1B8AB9A10062C875 /* iOSBlog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSBlog.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,14 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		52974356200600190074FD48 /* gif */ = {
+			isa = PBXGroup;
+			children = (
+				529743572006002A0074FD48 /* 2018-01-10 15_08_44.gif */,
+			);
+			path = gif;
+			sourceTree = "<group>";
+		};
 		914D538A065199BD87B85C42 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -137,6 +147,7 @@
 				EBBB2E191B8AB9A10062C875 /* Main.storyboard */,
 				EBBB2E1C1B8AB9A10062C875 /* Images.xcassets */,
 				EBBB2E1E1B8AB9A10062C875 /* LaunchScreen.xib */,
+				52974356200600190074FD48 /* gif */,
 				EBBB2E0F1B8AB9A10062C875 /* Supporting Files */,
 				EBBB2E361B8ABDF00062C875 /* contactModel.h */,
 				EBBB2E371B8ABDF00062C875 /* contactModel.m */,
@@ -255,6 +266,7 @@
 			files = (
 				EBBB2E1B1B8AB9A10062C875 /* Main.storyboard in Resources */,
 				EBBB2E201B8AB9A10062C875 /* LaunchScreen.xib in Resources */,
+				529743582006002A0074FD48 /* 2018-01-10 15_08_44.gif in Resources */,
 				EBBB2E1D1B8AB9A10062C875 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
