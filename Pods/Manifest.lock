@@ -1,0 +1,12 @@
+PODS:
+  - HighlightedSearch (0.1.0)
+
+DEPENDENCIES:
+  - HighlightedSearch
+
+SPEC CHECKSUMS:
+  HighlightedSearch: adf759fa7c99be5a5bea6c351d37ea51ddfb0a4b
+
+PODFILE CHECKSUM: 6dcfbea1bf1c3fcf1f2e962044cc8e7e667c2b1b
+
+COCOAPODS: 1.2.1
